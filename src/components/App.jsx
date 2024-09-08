@@ -1,5 +1,6 @@
 import { useState } from 'react';
 import Image from "./Image";
+import Key from "./Key";
 import Universe113 from '../assets/images/Universe113.jpg';
 
 function App() {
@@ -32,11 +33,7 @@ function App() {
     <>
       <main>
         <Image image={Universe113} items={items} setItems={setItems} />
-        <div className="sidebar">
-          {items.map(item => {
-            return <div key={item.name + "sidebar"}>{item.name}</div>
-          })}
-        </div>
+        <Key items={items} />
       </main>
     </>
   )
