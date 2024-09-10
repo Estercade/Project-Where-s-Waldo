@@ -1,8 +1,38 @@
-# React + Vite
+# Project-Where-s-Waldo
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project was made following the instructions and specifications for The Odin Project NodeJS Course [Where's Waldo Project](https://www.theodinproject.com/lessons/nodejs-where-s-waldo-a-photo-tagging-app).
 
-Currently, two official plugins are available:
+## Description
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+The goal of this project is to create an application where users play a game similar to Where's Waldo, where they will need to find several elements in a picture in the shortest amount of time possible in order to get the highest score. This program is optimized for use with Google Chrome.
+
+### Features
+
+## Built using
+
+### Technologies
+
+- HTML5
+- CSS3
+- JavaScript ES6
+- Node 20.16.0
+- React 18
+
+### Tools
+
+- Visual Studio Code
+- Git and GitHub
+- npm
+- Vite
+
+## Author
+
+Wilson Lee
+- [Github](https://github.com/estercade/)
+
+## Credits
+- Icons from [PNGEgg](https://www.pngegg.com/)
+
+## Acknowledgments
+
+* [The Odin Project](https://www.theodinproject.com/)
